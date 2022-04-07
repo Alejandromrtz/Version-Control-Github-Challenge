@@ -1,0 +1,8 @@
+1. Explain what the terminal is in your own words.
+It helps you take control of the operating system and makes it easy to make changes.
+
+2. What is the major difference between Git and Github?
+git is used in the terminal and github uses the information provided by Git
+
+3. Why do we use Github?
+to be able to manage group projects with ease.
